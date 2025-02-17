@@ -1,0 +1,3 @@
+## todo
+- [x] Show a graph
+- make an external Python API that sends you dummy data <-- would need to actually set the react part up in a power app...
